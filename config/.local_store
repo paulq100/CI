@@ -1065,6 +1065,19 @@
         "mmState": "clean", 
         "type": "Workflow"
     }, 
+    "TestUtilities.cls": {
+        "createdById": "005w0000003ZBrcAAG", 
+        "createdByName": "paul quinlan", 
+        "createdDate": "2014-09-11 15:11:22", 
+        "fileName": "unpackaged/classes/TestUtilities.cls", 
+        "fullName": "TestUtilities", 
+        "id": "01pw0000001jXhcAAE", 
+        "lastModifiedById": "005w0000003ZBrcAAG", 
+        "lastModifiedByName": "paul quinlan", 
+        "lastModifiedDate": "2014-09-11 15:11:22", 
+        "mmState": "clean", 
+        "type": "ApexClass"
+    }, 
     "User.object": {
         "createdById": "005w0000003ZBrcAAG", 
         "createdByName": "paul quinlan", 
