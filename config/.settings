@@ -1,0 +1,20 @@
+{
+    "username": "ci@cloudsahead.co.uk", 
+    "environment": "developer", 
+    "project_name": "ci@cloudsahead.co.uk", 
+    "workspace": "c:\\MavensMate", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "KMPHZPETO9A634QIJLMCKSB7F066HA53", 
+    "metadata_container": "1dcw0000000Cq0QAAS", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile", 
+        "Workflow"
+    ]
+}
