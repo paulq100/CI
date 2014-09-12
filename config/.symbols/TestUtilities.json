@@ -1,0 +1,46 @@
+{
+    "properties": [], 
+    "methods": [], 
+    "innerClasses": [], 
+    "variables": [
+        {
+            "type": "String", 
+            "modifiers": [], 
+            "references": [], 
+            "location": {
+                "column": 10, 
+                "line": 3
+            }, 
+            "name": "i"
+        }
+    ], 
+    "constructors": [
+        {
+            "modifiers": [], 
+            "name": "TestUtilities", 
+            "parameters": [], 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 9, 
+                "line": 2
+            }, 
+            "type": null
+        }
+    ], 
+    "namespace": null, 
+    "name": "TestUtilities", 
+    "tableDeclaration": {
+        "type": "TestUtilities", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 1
+        }, 
+        "name": "TestUtilities"
+    }, 
+    "key": "01pw0000001jXhcAAE", 
+    "id": "01pw0000001jXhcAAE", 
+    "externalReferences": []
+}
